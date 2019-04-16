@@ -7,3 +7,4 @@ This process of random fault injection is:
 5. After injection, write modified vector back to the network structure
 
 Before using this file, the topology of the network structure is required e.g : total number of weights, total number of layer...
+test 
